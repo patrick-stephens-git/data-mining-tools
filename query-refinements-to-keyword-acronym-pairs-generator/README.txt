@@ -39,7 +39,7 @@ INSTRUCTIONS
 Input File:
 	csv: input-query1-query2-pairs.csv
 
-	0,		1,					2
+	0,	1,						2
 	ama,	ask me anything,				1
 	ama,	ask me anything,				1
 	daw,	digital audio workstation,			1
