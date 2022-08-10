@@ -12,7 +12,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-This script will create a list of query acronym pairs given a list of queries, for example if the first searched query is 'ama' and the second searched query is 'ask me anything' we can assume that 'ama' is an acronym for 'ask me anything' and create a query pair.
+This script will output a csv of query (keyword|acronym) pairs given 2 keywords in a sequence where 1 keyword has N count of words and 1 keyword has N count of letters that match the starting letter of each word in keyword 1, for example if the first searched keyword is 'ama' and the second keyword query is 'ask me anything' we can assume that 'ama' is an acronym for 'ask me anything' and create a query pair.
 
 
 REQUIREMENTS
